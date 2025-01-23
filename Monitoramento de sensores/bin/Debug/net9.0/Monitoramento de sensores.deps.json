@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Monitoramento de sensores/1.0.0": {
+        "runtime": {
+          "Monitoramento de sensores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Monitoramento de sensores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

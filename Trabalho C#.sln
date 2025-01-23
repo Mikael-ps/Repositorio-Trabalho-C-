@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitoramento de sensores", "Monitoramento de sensores\Monitoramento de sensores.csproj", "{363EAE29-3460-4372-BDA5-3A8ED0B836F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitoramento", "Monitoramento\Monitoramento.csproj", "{7C9C1A2F-DEB0-4428-806A-286E0053B222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{363EAE29-3460-4372-BDA5-3A8ED0B836F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363EAE29-3460-4372-BDA5-3A8ED0B836F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363EAE29-3460-4372-BDA5-3A8ED0B836F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363EAE29-3460-4372-BDA5-3A8ED0B836F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C9C1A2F-DEB0-4428-806A-286E0053B222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9C1A2F-DEB0-4428-806A-286E0053B222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9C1A2F-DEB0-4428-806A-286E0053B222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9C1A2F-DEB0-4428-806A-286E0053B222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

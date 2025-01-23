@@ -1,0 +1,14 @@
+c:\Users\USER\Documents\Trabalho C#\Monitoramento de sensores\bin\Debug\net9.0\Monitoramento de sensores.exe
+c:\Users\USER\Documents\Trabalho C#\Monitoramento de sensores\bin\Debug\net9.0\Monitoramento de sensores.deps.json
+c:\Users\USER\Documents\Trabalho C#\Monitoramento de sensores\bin\Debug\net9.0\Monitoramento de sensores.runtimeconfig.json
+c:\Users\USER\Documents\Trabalho C#\Monitoramento de sensores\bin\Debug\net9.0\Monitoramento de sensores.dll
+c:\Users\USER\Documents\Trabalho C#\Monitoramento de sensores\bin\Debug\net9.0\Monitoramento de sensores.pdb
+c:\Users\USER\Documents\Trabalho C#\Monitoramento de sensores\obj\Debug\net9.0\Monitoramento de sensores.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Documents\Trabalho C#\Monitoramento de sensores\obj\Debug\net9.0\Monitoramento de sensores.AssemblyInfoInputs.cache
+c:\Users\USER\Documents\Trabalho C#\Monitoramento de sensores\obj\Debug\net9.0\Monitoramento de sensores.AssemblyInfo.cs
+c:\Users\USER\Documents\Trabalho C#\Monitoramento de sensores\obj\Debug\net9.0\Monitoramento de sensores.csproj.CoreCompileInputs.cache
+c:\Users\USER\Documents\Trabalho C#\Monitoramento de sensores\obj\Debug\net9.0\Monitoramento de sensores.dll
+c:\Users\USER\Documents\Trabalho C#\Monitoramento de sensores\obj\Debug\net9.0\refint\Monitoramento de sensores.dll
+c:\Users\USER\Documents\Trabalho C#\Monitoramento de sensores\obj\Debug\net9.0\Monitoramento de sensores.pdb
+c:\Users\USER\Documents\Trabalho C#\Monitoramento de sensores\obj\Debug\net9.0\Monitoramento de sensores.genruntimeconfig.cache
+c:\Users\USER\Documents\Trabalho C#\Monitoramento de sensores\obj\Debug\net9.0\ref\Monitoramento de sensores.dll
