@@ -11,7 +11,7 @@ namespace MonitoramentoSensores
         public double ValorAtual { get; private set; }
 
         private static string[] tiposDisponiveis = { "Temperatura", "Pressão", "Umidade" };
-        private static string[] nomesBase = { "Alpha", "Beta", "Gamma", "Delta", "Epsilon" };
+        private static string[] nomesBase = {"Vermelho", "Verde", "Azul", "Amarelo", "Roxo"};
 
         public Sensor()
         {
